@@ -1,0 +1,1 @@
+This repository holds my first project to the power learn project series. I am a beginner so don't judge what you see
